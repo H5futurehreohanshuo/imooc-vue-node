@@ -1,0 +1,24 @@
+{
+  "name": "imooc-vue-node",
+  "version": "1.0.0",
+  "description": "慕课网vue+node+mongodb高级全栈开发笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H5futurehreohanshuo/imooc-vue-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H5futurehreohanshuo/imooc-vue-node/issues"
+  },
+  "homepage": "https://github.com/H5futurehreohanshuo/imooc-vue-node#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "koa": "^2.5.1"
+  }
+}
